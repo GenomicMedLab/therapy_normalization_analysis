@@ -1,40 +1,40 @@
-,v5,v4
-BaderLab,48,300
-CGI,123,118
-CIViC,278,252
-COSMIC,15,15
-CancerCommons,48,48
-CarisMolecularIntelligence,608,608
-ChEMBL,1779,1085
-ClearityFoundationBiomarkers,34,34
-ClearityFoundationClinicalTrial,93,108
-DTC,1016,1016
-DoCM,35,35
-DrugBank,3981,0
-Ensembl,11204,60671
-FDA,89,89
-FoundationOneGenes,664,664
-GO,3260,3534
-GuideToPharmacology,3000,2942
-HGNC,11272,0
-HingoraniCasas,4463,4479
-HopkinsGroom,2676,2676
-HumanProteinAtlas,1325,1325
-IDG,313,329
-JAX-CKB,50,86
-MskImpact,350,350
-MyCancerGenome,169,182
-MyCancerGenomeClinicalTrial,82,83
-NCBI,11301,43741
-NCI,1045,1045
-OncoKB,54,55
-Oncomine,161,161
-PharmGKB,1448,1274
-Pharos,6038,6052
-RussLampel,3361,3361
-TALC,153,191
-TEND,436,437
-TTD,2040,2040
-TdgClinicalTrial,1024,1016
-Tempus,596,596
-dGene,2257,2257
+,v5,v4,display names,source type,source colors
+BaderLab,48,300,BaderLab,Existing,#480a77
+CGI,123,118,CGI,Existing,#480a77
+CIViC,278,252,CIViC,Updated,#8075ff
+COSMIC,15,15,COSMIC,Existing,#480a77
+CancerCommons,48,48,CancerCommons,Existing,#480a77
+CarisMolecularIntelligence,608,608,CMI,Existing,#480a77
+ChEMBL,1779,1085,ChEMBL,Updated,#8075ff
+ClearityFoundationBiomarkers,34,34,CF: Biomarkers,Existing,#480a77
+ClearityFoundationClinicalTrial,93,108,CF: Clinical Trials,Existing,#480a77
+DTC,1016,1016,DTC,Existing,#480a77
+DoCM,35,35,DoCM,Existing,#480a77
+DrugBank,3981,0,DrugBank,Updated,#8075ff
+Ensembl,11204,60671,Ensembl,Existing,#480a77
+FDA,89,89,FDA,Existing,#480a77
+FoundationOneGenes,664,664,FO: Genes,Existing,#480a77
+GO,3260,3534,GO,Existing,#480a77
+GuideToPharmacology,4376,2942,GtoPdb,Existing,#480a77
+HGNC,11272,0,HGNC,New,#fa198b
+HingoraniCasas,4463,4479,Hingorani/Casas,Existing,#480a77
+HopkinsGroom,2676,2676,Hopkins/Groom,Existing,#480a77
+HumanProteinAtlas,1325,1325,Human Protein Atlas,Existing,#480a77
+IDG,313,329,IDG,Existing,#480a77
+JAX-CKB,50,86,JAX-CKB,Existing,#480a77
+MskImpact,350,350,MSK Impact,Existing,#480a77
+MyCancerGenome,169,182,MCG,Existing,#480a77
+MyCancerGenomeClinicalTrial,82,83,MCG: Clinical Trials,Existing,#480a77
+NCBI,11301,43741,NCBI Gene,Existing,#480a77
+NCI,1045,1045,NCI,Existing,#480a77
+OncoKB,54,55,OncoKB,Existing,#480a77
+Oncomine,161,161,Oncomine,Existing,#480a77
+PharmGKB,1448,1274,PharmGKB,Updated,#8075ff
+Pharos,6038,6052,Pharos,Existing,#480a77
+RussLampel,3361,3361,Russ/Lampel,Existing,#480a77
+TALC,153,191,TALC,Existing,#480a77
+TEND,436,437,TEND,Existing,#480a77
+TTD,2040,2040,TTD,Existing,#480a77
+TdgClinicalTrial,1024,1016,TDG: Clinical Trials,Existing,#480a77
+Tempus,596,596,Tempus,Existing,#480a77
+dGene,2257,2257,dGene,Existing,#480a77
