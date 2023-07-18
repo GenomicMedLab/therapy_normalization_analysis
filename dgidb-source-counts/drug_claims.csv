@@ -12,8 +12,8 @@ DoCM,39,39,DoCM,Existing,#480a77
 DrugBank,7546,0,DrugBank,Updated,#8075ff
 Drugs@FDA,9233,0,Drugs@FDA,New,#fa198b
 FDA,289,291,FDA,Existing,#480a77
-GuideToPharmacology,8271,7233,GtoPdb,Existing,#480a77
-HemOnc,488,0,HemOnc.org,Existing,#480a77
+GuideToPharmacology,8271,7233,GtoPdb,Updated,#8075ff
+HemOnc,488,0,HemOnc.org,New,#fa198b
 JAX-CKB,741,733,JAX-CKB,Existing,#480a77
 MyCancerGenome,226,252,MCG,Existing,#480a77
 MyCancerGenomeClinicalTrial,82,112,MCG: Clinical Trials,Existing,#480a77
