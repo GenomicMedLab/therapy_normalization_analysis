@@ -11,7 +11,7 @@ ClearityFoundationClinicalTrial,93,108,CF: Clinical Trials,Existing,#480a77
 DTC,1016,1016,DTC,Existing,#480a77
 DoCM,35,35,DoCM,Existing,#480a77
 DrugBank,3981,0,DrugBank,Updated,#8075ff
-Ensembl,11204,60671,Ensembl,Existing,#480a77
+Ensembl,11204,60671,Ensembl,Updated,#8075ff
 FDA,89,89,FDA,Existing,#480a77
 FoundationOneGenes,664,664,FO: Genes,Existing,#480a77
 GO,3260,3534,GO,Existing,#480a77
@@ -25,7 +25,7 @@ JAX-CKB,50,86,JAX-CKB,Existing,#480a77
 MskImpact,350,350,MSK Impact,Existing,#480a77
 MyCancerGenome,169,182,MCG,Existing,#480a77
 MyCancerGenomeClinicalTrial,82,83,MCG: Clinical Trials,Existing,#480a77
-NCBI,11301,43741,NCBI Gene,Existing,#480a77
+NCBI,11301,43741,NCBI Gene,Updated,#8075ff
 NCI,1045,1045,NCI,Existing,#480a77
 OncoKB,54,55,OncoKB,Existing,#480a77
 Oncomine,161,161,Oncomine,Existing,#480a77
