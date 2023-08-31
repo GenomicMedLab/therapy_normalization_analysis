@@ -1,0 +1,22 @@
+,v5,v4,display names,source type,source colors
+CGI,368,372,CGI,Existing,#480a77
+CIViC,1083,959,CIViC,Updated,#8075ff
+COSMIC,37,37,COSMIC,Existing,#480a77
+CancerCommons,109,109,CancerCommons,Existing,#480a77
+ChEMBL,16938,7610,ChEMBL,Updated,#8075ff
+ClearityFoundationBiomarkers,163,163,CF: Biomarkers,Existing,#480a77
+ClearityFoundationClinicalTrial,240,281,CF: Clinical Trials,Existing,#480a77
+DTC,23879,23879,DTC,Existing,#480a77
+DoCM,76,76,DoCM,Existing,#480a77
+FDA,427,427,FDA,Existing,#480a77
+GuideToPharmacology,15653,14081,GtoPdb,Updated,#8075ff
+JAX-CKB,1822,1962,JAX-CKB,Existing,#480a77
+MyCancerGenome,821,865,MCG,Existing,#480a77
+MyCancerGenomeClinicalTrial,316,377,MCG: Clinical Trials,Existing,#480a77
+NCI,6231,6231,NCI,Existing,#480a77
+OncoKB,148,150,OncoKB,Existing,#480a77
+PharmGKB,5300,5078,PharmGKB,Updated,#8075ff
+TALC,602,624,TALC,Existing,#480a77
+TEND,2242,2243,TEND,Existing,#480a77
+TTD,15245,15245,TTD,Existing,#480a77
+TdgClinicalTrial,5071,5063,TDG: Clinical Trials,Existing,#480a77
